@@ -766,7 +766,7 @@ nav .text a img:hover {
     }
 
     .home {
-        background-image: url(/assets/bg_mobile2.png);
+        background-image: url(../assets/bg_mobile2.png);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
